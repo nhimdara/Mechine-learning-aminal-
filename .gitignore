@@ -1,0 +1,9 @@
+# Model files (too large for GitHub > 100MB limit)
+models/*.h5
+models/*.keras
+*.h5
+*.keras
+
+# Checkpoints & cache
+.ipynb_checkpoints/
+__pycache__/
